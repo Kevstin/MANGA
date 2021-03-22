@@ -1,0 +1,111 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	font-family: 'Redressed', cursive;
+	list-style: none;	
+	
+}
+body{
+	background-color: #1C1A1A;
+}
+.logo{
+	padding-bottom: 20px;
+}
+a:hover{
+	color: crimson;
+	transition: 0.5s;
+}
+li{
+	list-style-type: none;
+	padding: 25px;
+	font-size: 20px;
+}
+.tete{
+	display: flex;
+	background:url(picassoquatre.pn);
+	background-color: #1C1A1A;
+	width: 84.5%;
+	margin-bottom: 15px;
+	margin-left:222px;
+	height: 10px;
+}
+.lu{
+	font-size: 40px;
+	padding-left: 450px;
+}
+.gauche{
+	background:url(picassoquatre.png);
+	width: 15%;
+	position: fixed;
+	height: 650px;
+	padding-left: 20px;
+
+}
+.logo{
+	border-radius:65%; 
+}
+.tappe{
+	margin-left: 645px;
+	margin-top: 33px;
+	padding-right: 90px;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+p{
+	color: #fff;
+	font-size: 20px;
+}
+p{
+	padding-left:40px;
+	padding-right: 30px;
+
+}
+.acceuil{
+	border-radius: 15px; 
+	box-shadow: 1px 1px 10px #fff;
+}
+li{
+	padding-top: 0.5px;
+}
+.ligne{
+	display: flex;
+	padding-right: 15px; 
+	padding-bottom: 20px;
+	
+}
+.images{ 
+	padding-top:100px;
+	margin-left: 222px;
+	background-color:#1C1A1A;
+
+	margin-left: 222px;
+}
+.intgral{
+	width: 70%;
+	height: 1500px;
+}
+.interieur{
+	height: 2000px;
+	margin-top: 15px;
+	background-color:  #1C1A1A;
+	border-radius: 5px;
+} 
+.espace{
+	padding-left: 10px;
+	padding-top: 10px;
+	border-radius: 15px;
+
+	
+}
+.arriereplan{
+	background-color: #000;
+}
+.tgwikipedia{ 
+	padding-top:40px;
+}
+.haut{
+	display: flex;
+}
